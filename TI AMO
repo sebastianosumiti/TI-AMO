@@ -1,0 +1,33 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>❤️</title>
+<script>
+window.onload = function() {
+  alert(
+    "❤️ TI AMO ❤️\n\n" +
+    "Italiano: Ti amo\n" +
+    "Inglese: I love you\n" +
+    "Spagnolo: Te amo\n" +
+    "Francese: Je t’aime\n" +
+    "Tedesco: Ich liebe dich\n" +
+    "Portoghese: Eu te amo\n" +
+    "Russo: Я тебя люблю\n" +
+    "Arabo: أحبك\n" +
+    "Giapponese: 愛してる\n" +
+    "Cinese: 我爱你\n" +
+    "Coreano: 사랑해\n" +
+    "Greco: Σ’ αγαπώ\n" +
+    "Turco: Seni seviyorum\n\n" +
+    "In ogni lingua del mondo,\n" +
+    "TI AMO."
+  );
+}
+</script>
+</head>
+<body>
+</body>
+</html>
